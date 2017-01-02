@@ -1,5 +1,6 @@
 # Cellular-Network-Spectrum-Sharing-Demo
 Author: Samyak Shah
+Date: 01/02/2017
 
 Description: I demo a centralized model based on Pareto Optimality for cellular network spectrum sharing based on an algorithm developed by Kamal et al. from Télécom ParisTech.
 
